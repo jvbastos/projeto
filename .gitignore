@@ -1,0 +1,7 @@
+aes_file_cipher
+build/
+*.enc
+*.o
+*.obj
+*.exe
+*.out
